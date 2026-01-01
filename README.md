@@ -39,17 +39,19 @@ No unnecessary animations. Just results.
 ## 🛠️ Tech Stack
 | Layer | Technology |
 |------|------------|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | *(Add if applicable)* |
-| APIs | *(Location / Medicine APIs)* |
+| Frontend | React, TypeScript, Vite, Tailwind CSS, Radix UI |
+| Backend | Node.js, Express.js, TypeScript |
+| APIs | REST APIs (Express-Based) |
 
 Simple stack. Solid results.
 
 ---
 
 ## 📸 Screenshots
-> Add screenshots here to impress recruiters  
-> (Yes, they judge. A lot.)
+<img width="1908" height="912" alt="Screenshot 2025-12-30 122345" src="https://github.com/user-attachments/assets/fe5d0c40-31a8-4cd6-8c27-3718e4c8b797" />
+<img width="1905" height="908" alt="Screenshot 2025-12-30 122626" src="https://github.com/user-attachments/assets/d1297e88-d755-4b69-8be8-493fcce08f7a" />
+<img width="1904" height="910" alt="Screenshot 2026-01-01 154946" src="https://github.com/user-attachments/assets/967341a0-952e-4123-9941-2355cb5da385" />
+<img width="1905" height="914" alt="Screenshot 2025-12-30 122736" src="https://github.com/user-attachments/assets/8f037df6-c9d7-4254-8d79-9e2ba97cb494" />
 
 ---
 
