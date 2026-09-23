@@ -55,7 +55,3 @@ Simple stack. Solid results.
 
 ---
 
-## 🚀 Getting Started
-```bash
-git clone https://github.com/your-username/vigourcare.git
-cd vigourcare
