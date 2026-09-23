@@ -55,3 +55,14 @@ Simple stack. Solid results.
 
 ---
 
+## 📄 License
+
+This project is currently intended for educational and demonstration purposes.
+
+A formal open-source license can be added if the project is released for public reuse.
+
+---
+
+<p align="center">
+  Made with 🧠, 💻 & ❤️
+</p>
